@@ -18,5 +18,5 @@ The project integrates a Java Swing-based GUI with MySQL, implementing **mobile 
 3. Run the Java project (`mainUI.java`).
 
 ### 📢 Additional Information
-This project is for personal learning and practice, focusing on maintaining a simple structure while applying practical concepts relevant to real-world applications.
+<sub>This project is for personal learning and practice, focusing on maintaining a simple structure while applying practical concepts relevant to real-world applications.</sub>
 ---
