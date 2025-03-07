@@ -1,4 +1,4 @@
-# 
+# 📂URECA_MiniProject_ldy
 # 📱 Mobile Sales System (Mini Project)
 
 This folder contains a **mini project for a mobile sales system using Swing and JDBC**, developed as part of the URECA program.  
